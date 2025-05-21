@@ -1,7 +1,7 @@
     #Géocodage des adresses et gestion des codes postaux :
   
 Ce script permet de géocoder des adresses et de gérer les cas d'adresses incomplètes ou contenant uniquement des codes postaux. 
-Mes données ston stockées sur un serveur PostgreSQL dans une table Adresses_Client.
+Mes données sont stockées sur un serveur PostgreSQL dans une table Adresses_Client.
 Je vais aussi, à travers ce script créer une table CP_ref qui sera notre référentiel de codes postaux.
 Utilisation de l'api : https://api-adresse.data.gouv.fr
 
